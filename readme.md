@@ -29,4 +29,4 @@
 
 ## Лицензия
 
-[SlaiRakoon](LICENSE)
+[SlaiRakoon]([LICENSE](https://github.com/SlainRakoon))
